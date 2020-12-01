@@ -1,24 +1,24 @@
-# hello-world
+# Project name - Hello-world
+# Project title - Market View
+# Info - Built in Vue.js, used Yarn
 
 ## Project setup
 ```
-yarn install
+Open Terminal:
+  - yarn install
+  - yarn global add @vue/cli
 ```
 
-### Compiles and hot-reloads for development
+### cd in to /28Stone-home-task
+
+#### Compile Project
 ```
-yarn serve
+Open Terminal:
+  - yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Open App via:
+  - Localhost
+  - Network
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
